@@ -24,6 +24,17 @@ Hackintosh Z490-P PRIME
 |-|-|
 |igpu|Intel UHD Graphics 630|
 
+### Required Kexts
+* AppleALC
+* Lilu
+* RealtekRTL8111
+* VirtualSMC
+* WhateverGreen
+* USB-Map (create own)
+* SMCProcessor (opt)
+* SMCSuperIO (opt)
+
+
 
 References:
 PRIME Z490-P Specs - https://www.asus.com/au/Motherboards/PRIME-Z490-P/specifications/
